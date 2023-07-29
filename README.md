@@ -26,7 +26,7 @@ Clone the repository, open a terminal on the folder and execute "python main.py"
 <img src="https://github.com/LuanTSP/Number-Predict/assets/103657198/0026f459-1a84-47d5-be8f-71d3acae4533" alt="img3" width=400 height=128>  
 
 
-<img src="https://github.com/LuanTSP/Number-Predict/assets/103657198/d9f6b46d-a4dc-43a0-9e38-6632d80cf4a3" alt="img4" width=400 height=128>  
+<img src="https://github.com/LuanTSP/Number-Predict/assets/103657198/d9f6b46d-a4dc-43a0-9e38-6632d80cf4a3" alt="img4" width=300 height=128>  
 
 
 
