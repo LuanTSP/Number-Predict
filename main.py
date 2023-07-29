@@ -171,7 +171,7 @@ while running:
                 # Predict Button
                 elif buttons[3].clicked():
                     pred = predict(model=model)
-                    pygame.display.set_caption(f"{pred}")
+                    pygame.display.set_caption(f"Predicted Number: {pred}")
                     pygame.display.update()
     pygame.display.update()
 pygame.quit()
